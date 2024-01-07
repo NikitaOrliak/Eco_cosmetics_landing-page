@@ -1,6 +1,4 @@
-# Landing page
-
-Eco cosmetics landing page.
+# Eco cosmetics landing page
 
 Technologies that were used:
 - HTML
