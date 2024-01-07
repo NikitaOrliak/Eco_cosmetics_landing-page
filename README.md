@@ -1,6 +1,6 @@
 # Landing page
 
-This is an Eco cosmetics landing page created by me.
+Eco cosmetics landing page.
 
 Technologies that were used:
 - HTML
